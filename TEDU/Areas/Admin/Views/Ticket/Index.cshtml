@@ -1,7 +1,7 @@
-﻿
-@{
-    ViewBag.Title = "Index Ticket";
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    ViewBag.Headers = new List<string> { "Mã vé", "Mã chuyến", "Tên chuyến xe", "Tên hành khách", "Số điện thoại", "Email", "Số ghế", "Thời gian thanh toán", "Trạng thái thanh toán" };
 }
 
-<h2>Index Ticket</h2>
+@Html.Partial("_Table")
 

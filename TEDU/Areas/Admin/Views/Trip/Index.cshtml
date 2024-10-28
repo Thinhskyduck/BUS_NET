@@ -1,7 +1,6 @@
-﻿
-@{
-    ViewBag.Title = "Index Trip";
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    ViewBag.Headers = new List<string> { "Tên tuyến xe", "Thời gian khởi hành", "Tài xế", "Giá vé", "Trạng Thái" };
 }
-
-<h2>Index Trip</h2>
+@Html.Partial("_Table")
 

@@ -3,92 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\controllers\\codrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\codrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\route\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\route\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\Areas\\Admin\\Views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\content\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\content\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:TEDU\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,267 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Route\\Create.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Route\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Route\\Create.cshtml",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Route\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T17:47:41.428Z"
+              "DocumentIndex": 0,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:09:31.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RouteController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\RouteController.cs",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\RouteController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\RouteController.cs",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\RouteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Title": "CoDriverController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:45:47.915Z"
+              "WhenOpened": "2024-10-28T04:09:21.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Content\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "TEDU\\Content\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Content\\css\\bootstrap.min.css",
-              "RelativeToolTip": "TEDU\\Content\\css\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-20T15:21:54.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Content\\css\\style.css",
-              "RelativeDocumentMoniker": "TEDU\\Content\\css\\style.css",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Content\\css\\style.css",
-              "RelativeToolTip": "TEDU\\Content\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-20T15:21:03.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:32:22.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T11:32:55.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADIAAAASAAAA",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAFIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:30:24.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADwCAAAAAAAAAAAiwFgCAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T12:31:57.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:29:16.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:29:03.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "TEDU\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "TEDU\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:32:29.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TEDU\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TEDU\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:58:36.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "TEDU\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "TEDU\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:00:45.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "TEDU\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "TEDU\\App_Start\\FilterConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:00:43.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:41:12.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "web.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\web.config",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\web.config",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\web.config",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-18T11:36:43.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "TEDU\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T10:48:05.904Z"
+              "WhenOpened": "2024-10-27T17:02:55.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T15:36:41.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Web.config",
-              "RelativeDocumentMoniker": "TEDU\\Views\\Web.config",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Views\\Web.config",
-              "RelativeToolTip": "TEDU\\Views\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-18T12:31:59.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "favicon.ico",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\favicon.ico",
-              "RelativeDocumentMoniker": "TEDU\\favicon.ico",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\favicon.ico",
-              "RelativeToolTip": "TEDU\\favicon.ico",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-10-18T12:32:02.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\packages.config",
-              "RelativeDocumentMoniker": "TEDU\\packages.config",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\packages.config",
-              "RelativeToolTip": "TEDU\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-18T12:32:03.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T11:33:12.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:02:47.147Z"
             }
           ]
         }
