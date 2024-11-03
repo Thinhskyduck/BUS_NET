@@ -419,3 +419,5 @@ C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\BouncyCastle.Crypto
 C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\itextsharp.dll
 C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\BouncyCastle.Cryptography.xml
 C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\itextsharp.xml
+C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\CKFinder.dll
+C:\Users\ASUS\Desktop\Year_3\.NET\DoAn\BUS_.NET_MVC\TEDU\bin\CKFinder.pdb

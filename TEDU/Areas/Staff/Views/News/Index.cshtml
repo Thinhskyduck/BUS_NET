@@ -1,5 +1,6 @@
 ﻿@{
     Layout = "~/Areas/Staff/Views/Shared/_Layout.cshtml";
+    ViewBag.Headers = new List<string> { "STT", "Tiêu đề", "Hình", "Meta", "Hiển thị", "Ngày cập nhật" };
 }
-@Html.Partial("News")
+@Html.Partial("_Table")
 

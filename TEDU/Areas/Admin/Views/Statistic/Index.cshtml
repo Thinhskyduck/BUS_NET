@@ -51,7 +51,6 @@
         </div>
     </div>
 
-
     <!-- Pending Requests Card Example -->
     <div class="col-xl-4 col-md-6 mb-4">
         <div class="card border-left-warning shadow h-100 py-2">
@@ -71,7 +70,6 @@
         </div>
     </div>
 </div>
-
 <!-- Content Row -->
 <div class="row">
     <!-- Area Chart -->
@@ -92,23 +90,7 @@
 </div>
 @section Scripts {
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script>
-        // Dữ liệu và cấu hình biểu đồ của bạn
-        var ctx = document.getElementById("myAreaChart");
-        var myLineChart = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-                datasets: [{
-                    label: "Earnings",
-                    lineTension: 0.3,
-                    backgroundColor: "rgba(78, 115, 223, 0.05)",
-                    borderColor: "rgba(78, 115, 223, 1)",
-                    data: [0, 10000, 5000, 15000, 10000, 20000, 15000, 25000, 20000, 30000, 25000, 40000],
-                }]
-            },
-            options: { /* Các tùy chỉnh như trong mã của bạn */ }
-        });
+    <script>  
         // Hàm export PDF
         function exportPDF() {
             const canvas = document.getElementById('myAreaChart');
@@ -127,7 +109,5 @@
             });
         }
     </script>
-
-
 }
 

@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\controllers\\codrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\codrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|c:\\users\\asus\\desktop\\year_3\\.net\\doan\\bus_.net_mvc\\tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\shared\\_table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\shared\\_table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\staff\\views\\shared\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\staff\\views\\shared\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\shared\\_table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\shared\\_table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\tedu\\areas\\admin\\views\\driver\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E30A75F-344A-4075-8DF1-7A59BDA0A054}|TEDU\\TEDU.csproj|solutionrelative:tedu\\areas\\admin\\views\\driver\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +95,219 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StatisticController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\StatisticController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:09:31.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoDriverController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
-              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\CoDriverController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:09:21.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAOoAAAAAAAAAAAAAAFIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T17:02:55.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIwAAAAqAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T17:02:47.147Z"
+              "WhenOpened": "2024-11-01T09:57:28.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:57:23.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Ticket\\Index.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Ticket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Ticket\\Index.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Ticket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T04:47:40.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T04:47:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\News.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Shared\\News.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\News.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Shared\\News.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:48:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:39:23.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\News\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:39:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:36:28.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Models\\News.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Models\\News.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:35:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:27:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:39:16.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Table.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Views\\Shared\\_Table.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Views\\Shared\\_Table.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Views\\Shared\\_Table.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T02:33:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Staff\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Staff\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Staff\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:34:51.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Models\\News.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Models\\News.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:35:33.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:33:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:26:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Driver\\Create.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Driver\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Driver\\Create.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Driver\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:26:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Table.cshtml",
+              "RelativeDocumentMoniker": "TEDU\\Areas\\Admin\\Views\\Shared\\_Table.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Year_3\\.NET\\DoAn\\BUS_.NET_MVC\\TEDU\\Areas\\Admin\\Views\\Shared\\_Table.cshtml",
+              "RelativeToolTip": "TEDU\\Areas\\Admin\\Views\\Shared\\_Table.cshtml",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAAOMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:10:31.584Z"
             }
           ]
         }
